@@ -5,7 +5,7 @@
   <link href="/gzh.github.io/atom.xml" rel="self"/>
   
   <link href="http://gzhcv.github.io/gzh.github.io/"/>
-  <updated>2016-06-26T08:30:36.466Z</updated>
+  <updated>2016-06-26T09:07:15.114Z</updated>
   <id>http://gzhcv.github.io/gzh.github.io/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title>学习模型概述</title>
     <link href="http://gzhcv.github.io/gzh.github.io/2016/06/26/hello-world/"/>
     <id>http://gzhcv.github.io/gzh.github.io/2016/06/26/hello-world/</id>
-    <published>2016-06-26T08:30:36.622Z</published>
-    <updated>2016-06-26T08:30:36.466Z</updated>
+    <published>2016-06-26T09:07:15.202Z</published>
+    <updated>2016-06-26T09:07:15.114Z</updated>
     
     <content type="html">&lt;p&gt;该学习模型主要介绍智慧矿山。内容以文字、视频、图片、的形式呈现在网页中。支持PC和移动端阅读。此外，提供了采矿相关的学习资料和相关网站的链接。学习资料放在百度云网盘，链接在文章末尾。&lt;/p&gt;
 &lt;iframe src=&quot;http://www.tudou.com/programs/view/html5embed.action?type=0&amp;code=6Y16ZDeYPFs&amp;lcode=&amp;resourceId=0_06_05_99&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; allowfullscreeninteractive=&quot;true&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;0&quot; style=&quot;width:480px;height:400px;&quot;&gt;&lt;/iframe&gt;
@@ -46,6 +46,10 @@
     
     </summary>
     
+      <category term="智慧矿山" scheme="http://gzhcv.github.io/gzh.github.io/categories/%E6%99%BA%E6%85%A7%E7%9F%BF%E5%B1%B1/"/>
+    
+    
+      <category term="智慧矿山" scheme="http://gzhcv.github.io/gzh.github.io/tags/%E6%99%BA%E6%85%A7%E7%9F%BF%E5%B1%B1/"/>
     
   </entry>
   
