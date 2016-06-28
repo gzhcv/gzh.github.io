@@ -5,7 +5,7 @@
   <link href="/gzh.github.io/atom.xml" rel="self"/>
   
   <link href="http://gzhcv.github.io/gzh.github.io/"/>
-  <updated>2016-06-28T00:36:42.522Z</updated>
+  <updated>2016-06-28T15:35:21.062Z</updated>
   <id>http://gzhcv.github.io/gzh.github.io/</id>
   
   <author>
@@ -16,37 +16,67 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>学习模型概述</title>
-    <link href="http://gzhcv.github.io/gzh.github.io/2016/06/28/hello-world/"/>
-    <id>http://gzhcv.github.io/gzh.github.io/2016/06/28/hello-world/</id>
-    <published>2016-06-28T00:36:42.642Z</published>
-    <updated>2016-06-28T00:36:42.522Z</updated>
+    <title>浅谈矿山信息化与智能化的要求与关键技术</title>
+    <link href="http://gzhcv.github.io/gzh.github.io/2016/06/28/wulian-03/"/>
+    <id>http://gzhcv.github.io/gzh.github.io/2016/06/28/wulian-03/</id>
+    <published>2016-06-28T15:35:21.142Z</published>
+    <updated>2016-06-28T15:35:21.062Z</updated>
     
-    <content type="html">&lt;p&gt;该学习模型主要介绍智慧矿山。内容以文字、视频、图片的形式呈现在网页中。支持PC和移动端阅读。此外，提供了采矿相关的学习资料和相关网站的链接。学习资料放在百度云网盘，链接在文章末尾。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;iframe src=&quot;http://www.tudou.com/programs/view/html5embed.action?type=0&amp;code=6Y16ZDeYPFs&amp;lcode=&amp;resourceId=0_06_05_99&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; allowfullscreeninteractive=&quot;true&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;0&quot; style=&quot;width:480px;height:400px;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;智慧矿山组成部分&quot;&gt;&lt;a href=&quot;#智慧矿山组成部分&quot; class=&quot;headerlink&quot; title=&quot;智慧矿山组成部分&quot;&gt;&lt;/a&gt;智慧矿山组成部分&lt;/h2&gt;&lt;p&gt;智慧矿山学习模型主要包括数字矿山、物联网、安全保障系统这三部分。&lt;br&gt;&lt;img src=&quot;http://i4.piimg.com/4851/4b44cc82b948c4b3.png&quot; alt=&quot;智慧矿山组成部分&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;矿山数字化的目的是利用信息技术和自动控制理论实现矿山生产自动和安全监控自动。矿山自动化和数字化可以减少井下操作人员数量，降低人工成本，实现智能化开采。另外通过对信息的实时采集和诊断分析，实现监测监控预警和应急救援。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;矿山信息化与智慧化特点&quot;&gt;&lt;a href=&quot;#矿山信息化与智慧化特点&quot; class=&quot;headerlink&quot; title=&quot;矿山信息化与智慧化特点&quot;&gt;&lt;/a&gt;矿山信息化与智慧化特点&lt;/h2&gt;&lt;p&gt;矿井下的特殊环境直接影响着矿山信息化和智慧化的应用，想更好地实现矿山智慧化，需要从井下的实际工作环境和特殊要求出发，研究整个智能化系统。下面根据监控设备应满足的要求进行说明：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;h4 id=&quot;数字矿山&quot;&gt;&lt;a href=&quot;#数字矿山&quot; class=&quot;headerlink&quot; title=&quot;数字矿山&quot;&gt;&lt;/a&gt;数字矿山&lt;/h4&gt;数字矿山是智慧矿山的前提与基础，其核心是在统一的时间参照和空间框架下，通过真三维可视化表达等不同手段获取海量、异质、异构、多维、动态的矿山信息并科学有序地组织、管理、维护，建立矿山信息的分布式共享、协同和利用机制，形成多种灵活便捷的数字方法与模拟工具，最大限度地挖掘和发挥矿山数据的潜能和作用，并贯穿于矿山规划、生产、经营和管理的全过程，保障矿山的科学决策和现代管理。&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;物联网&quot;&gt;&lt;a href=&quot;#物联网&quot; class=&quot;headerlink&quot; title=&quot;物联网&quot;&gt;&lt;/a&gt;物联网&lt;/h4&gt;物联网技术基于各类传感器将可见性扩展到矿山系统中，提供以前无法利用(不可用或数据收集成本过高)的新实时数据源。集成大量传感器和设备能够收集和移动数据;执行本地命令，采取行动；运行分布式操作逻辑。能够管理设备和传感器;提供设备的远程配置和管理;能够监控和提供这些设备及其数据的安全性。&lt;/li&gt;
-&lt;li&gt;&lt;h4 id=&quot;安全保障系统&quot;&gt;&lt;a href=&quot;#安全保障系统&quot; class=&quot;headerlink&quot; title=&quot;安全保障系统&quot;&gt;&lt;/a&gt;安全保障系统&lt;/h4&gt;在矿山物联网基础上,结合多网融合技术、智能融合分析技术等先进技术,利用云计算和超级计算机实现对海量数据的整理和分析,完成矿山生产网络内的人员、机器、设备、物资、信息等的自动管理和控制,构成智慧矿山。以期有效解决综采面的感知协同问题、煤矿井下重大灾害的预警问题和矿井灾害的及时搜索等迫切需要解决的问题。最终实现灾害预警、安全生产、无人开采、绿色矿山的智慧模式。&lt;/li&gt;
+&lt;li&gt;a) 矿井下有可燃性气体和矿尘，用于井下监测的电气设备需要防爆，使用的监控和监视设备应保证自身安全，通讯电缆上传输的信号必须是本安信号，选择无线通信设备的功率应尽量小，防止引爆电雷管等 &lt;/li&gt;
+&lt;li&gt;b) 在井下狭小的空间中，大量机电设备如大功率变压器、电机车、大功率水泵、皮带电机、采掘机械和通风设备同时工作，不断启停都会产生严重的电磁干扰，影响通信和监控设备正常使用；&lt;/li&gt;
+&lt;li&gt;c) 随着采掘深度和长度不断变化，定点的监测已经无法适应井下开采技术的要求，需要采用移动的监控终端和通讯终端来满足井下工作场所分散和作业距离远的需要；&lt;/li&gt;
+&lt;li&gt;d) 当井下发生爆炸、顶板塌落事故时，会对监测设备和电缆造成损坏，因此，井下安全监测系统应具备抗灾应变能力，将事故现场的实际情况反馈到应急指挥中心，使指挥中心更快掌握现场状况，采取相应应急救援措施，减少事故造成的影响；&lt;/li&gt;
+&lt;li&gt;e) 井下空气潮湿，淋水现象到处可见，监测监控和通信设备的外壳应具备防水、防潮和抗腐蚀的能力，设备防护等级应达到IP67。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;相关学习资料&quot;&gt;&lt;a href=&quot;#相关学习资料&quot; class=&quot;headerlink&quot; title=&quot;相关学习资料&quot;&gt;&lt;/a&gt;相关学习资料&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/s/1i4N6nUd&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;采矿手册&lt;/a&gt; 密码: jmep&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/s/1nuKaqX7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;数字矿山资料&lt;/a&gt; 密码: hfua&lt;/li&gt;
+&lt;h2 id=&quot;矿山信息化与智慧化的总体要求&quot;&gt;&lt;a href=&quot;#矿山信息化与智慧化的总体要求&quot; class=&quot;headerlink&quot; title=&quot;矿山信息化与智慧化的总体要求&quot;&gt;&lt;/a&gt;矿山信息化与智慧化的总体要求&lt;/h2&gt;&lt;p&gt;矿山信息化和智慧应满足以下要求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a) 减少井下作业人员人数，降低人员伤亡事故的发生机率，达到安全高效生产的目的。通过对井下信息采集，地面远程控制，实现井下通风、排水、供电自动化和井下环境自动监测和预警；&lt;/li&gt;
+&lt;li&gt;b) 监测和通讯系统的设计要按照“适用、可靠、便于维护、易于扩展”的原则进行设计；&lt;/li&gt;
+&lt;li&gt;c) 监测设备应具备统一的信息传输方式，便于系统扩展和信息管理规范化；&lt;/li&gt;
+&lt;li&gt;d) 系统应具备远程控制和远程调度功能，实现信息远程交互和设备远程控制 [ 2] ；&lt;/li&gt;
+&lt;li&gt;e) 监控系统中应设计成为需要融合视频监控技术、语音通信技术、传感器技术为一体的综合的数据信息交互平台；f ) 系统具备有线传输和无线传输两种方式，根据不同的应用场合发挥各自的优势，无线设备接入点选择W IFI、ZIGBEE、4G 技术；对于固定点的设备采用CAN总线、485总线、网络通讯进行传输；&lt;/li&gt;
+&lt;li&gt;g) 矿井调度通信系统中使用的电缆必须为专用电缆，视频监控电缆和供电必须尽量与其它监控电缆和供电分开，保证&lt;br&gt;视频信号传输稳定不受干扰，确保视频监控实时远程传输；&lt;/li&gt;
+&lt;li&gt;h) 系统中设备电源在规定的电压波动范围内波动时，系统应能够正常工作，系统的抗电磁干扰能力和技术指标应符合国标要求。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&quot;矿山信息化与智慧化的实现&quot;&gt;&lt;a href=&quot;#矿山信息化与智慧化的实现&quot; class=&quot;headerlink&quot; title=&quot;矿山信息化与智慧化的实现&quot;&gt;&lt;/a&gt;矿山信息化与智慧化的实现&lt;/h2&gt;&lt;p&gt;矿山信息化和智慧化是利用各种传感技术、信息传输和处理技术，实现状态监控和自动化控制。通过使用信息管理技术和采矿、挖掘技术结合，构建矿山中人与物的相联网络，将独立的系统整合为一个整体，通过高度集成化的软件管理平台，进行运行状态显示、超限预警、远程控制等功能，实现矿山整体监测和控制的可视化和数字化。下面以赵庄二号井综合自动化集中控制系统为例，对矿山监测系统组成进行说明，系统由集控室将中央泵房、主井提升机房、副井提升机房、主扇机房及井下供电电网的控制系统进行集中，通过光纤和交换机进行信息交互通讯等几部分组成。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3.1 供电电网电气设备监测和控制系统&lt;br&gt;矿山供电电网电气设备在运行中受到电、热环境等各种因素的作用，其性能逐渐老化，导致故障。对电气设备的运行和监控也是矿山信息化和智慧化的重要组成部分。电气设备监控由以下部分构成：传感器输入部分、数据采集部分和数据处理部分、控制输出部分、信息远程传送部分和故障诊断部分等五部分。通过各个部分协调工作实现对电气设备运行参数的测量和输出控制，同时将实时监测数据发送到调度中心。&lt;/li&gt;
+&lt;li&gt;3.2 井下安全监测系统&lt;br&gt;井下安全监测系统由管理层、控制层和终端设备组成。管理层通过井上局域网构建实现；控制层采用以太网实现数据传输，对在网设备实现实时远程控制；终端设备层由终端采集系统组成，采用工业总线进行通讯，确保系统实时性和可靠性。井下安全监测系统实现功能是井下环境监测、井下人员定位及调度、井下视频监控、井下广播系统、井下电话通讯。&lt;/li&gt;
+&lt;li&gt;3.3 井下主排水自动控制系统&lt;br&gt;井下主排水自动控制系统主要包含自动注水、闸阀操纵、水位自动监控、参数传输、故障保护及电动机的自动控制环节等。通过软件对水泵启停次数、运行时间长短和管路流量等参数自动记录并累计，系统根据这些运行参数按顺序自动启停水泵和管路，实现主排水自动控制。主排水自动控制系统实现对井下水泵的控制，减少了人工投入、降低了运行成本，实现对水泵运行状态、运行过程的远程自动监控与操作。&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3.4 地面主扇主副提升及压风等大型设备综合自动化监控系统&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;a) 地面主扇风机监控。将主扇机房的风机综合自动化控制系统接入工业网络，实现对地面主扇风机参数的检测，将风机运行画面图像及数据发送给调度中心的工作人员，实现主扇通风系统实时监控与远程控制；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;b) 主副提升设备监控。将主副提升综合自动化控制系统接入到工业以太网络，控制器实现主副井绞车的运行状态检测和运行电气参数的测量，将设备运行状态和设备运行参数通过以太网传送到调度中心；&lt;/li&gt;
+&lt;li&gt;c) 压风设备监控。将压风机自动控制系统接入到以太网，控制器实现检测压风设备工作状态、电机电流、电机保护信号等参数，并能根据参数的变化，实现自动控制。&lt;/li&gt;
+&lt;li&gt;3.5 后台监控软件&lt;br&gt;后台监控系统是数据采集、处理、存储、安全监视、画面显示及拷贝与操作的主要人机界面，用于图形及报表显示及打印、事件报警及记录、状态显示和查询、设备状态和参数的查询，操作指导、操作控制命令的解释和下达，时钟校正等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;矿山信息化与智能化关键技术&quot;&gt;&lt;a href=&quot;#矿山信息化与智能化关键技术&quot; class=&quot;headerlink&quot; title=&quot;矿山信息化与智能化关键技术&quot;&gt;&lt;/a&gt;矿山信息化与智能化关键技术&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;4.1 矿井通讯技术&lt;br&gt;随着通信技术发展，井下通讯技术也日益成熟，可以根据井下通讯的不同需求选择适合的通讯技术。&lt;/li&gt;
+&lt;li&gt;a) 矿井主干网络。主要干网络需要实现高速、大数据量的交互，因此应选用千兆以太网光纤网络；&lt;/li&gt;
+&lt;li&gt;b)矿井移动设备。选择W i Fi 、Zi gBee、3G、4G等技术；&lt;/li&gt;
+&lt;li&gt;c)有线接入。可选择CAN、485、10/ 100M 网络等现场总线；&lt;/li&gt;
+&lt;li&gt;d) 矿井图像监视。可选择W IFI、4G等技术；&lt;/li&gt;
+&lt;li&gt;e) 矿井语音移动通信。4G、W IFI、3G、无线网桥等技术；&lt;/li&gt;
+&lt;li&gt;f)井下目标精确定位。选用RFID、Zi gBee和W IFI等技术。&lt;/li&gt;
+&lt;li&gt;4.2 智能开采技术&lt;br&gt;智能开采技术包括智能感知系统、智能联动控制系统、执行系统。智能开采技术是以计算机为系统控制核心，以工作面的环境视频推送、设备感知为基础，以煤流系统负荷为决策依据实现联动控制，达到开采的可视化、智能化的目的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;结语&quot;&gt;&lt;a href=&quot;#结语&quot; class=&quot;headerlink&quot; title=&quot;结语&quot;&gt;&lt;/a&gt;结语&lt;/h2&gt;&lt;p&gt;在对矿山信息化与智慧化特点和介绍的基础上，对矿山数字化的几个方面的典型系统应用进行说明，详细阐述了矿山信息化和智慧化的系统实现方式，最后对矿山信息化和智能化关键技术的应用进行简要说明。矿山信息化与智慧化是结合了多门学科的综合课题，要达到高度的信息化和智能控制还需要长期研究，它与现代通讯技术发展和传感器技术发展有密切联系，需要在以后工作中不断学习和研究。&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;该学习模型主要介绍智慧矿山。内容以文字、视频、图片的形式呈现在网页中。支持PC和移动端阅读。此外，提供了采矿相关的学习资料和相关网站的链接。学习资料放在百度云网盘，链接在文章末尾。
+      &lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;矿山数字化的目的是利用信息技术和自动控制理论实现矿山生产自动和安全监控自动。矿山自动化和数字化可以减少井下操作人员数量，降低人工成本，实现智能化开采。另外通过对信息的实时采集和诊断分析，实现监测监控预警和应急救援。
     
     </summary>
     
-      <category term="智慧矿山" scheme="http://gzhcv.github.io/gzh.github.io/categories/%E6%99%BA%E6%85%A7%E7%9F%BF%E5%B1%B1/"/>
+      <category term="物联网" scheme="http://gzhcv.github.io/gzh.github.io/categories/%E7%89%A9%E8%81%94%E7%BD%91/"/>
     
     
-      <category term="智慧矿山" scheme="http://gzhcv.github.io/gzh.github.io/tags/%E6%99%BA%E6%85%A7%E7%9F%BF%E5%B1%B1/"/>
+      <category term="物联网" scheme="http://gzhcv.github.io/gzh.github.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
